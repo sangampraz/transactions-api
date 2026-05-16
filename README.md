@@ -25,7 +25,7 @@ When developing web applications like this, it is important to be prudent about 
 https://transactions-api-sangampraz-dfda5969908e.herokuapp.com/
 
 7. Screenshots of Postman making requests to your deployed application
-![alt text](images\GET1.png)
-![alt text](images\GET2.png)
-![alt text](images\POST1.png)
-![alt text](images\GET3Test.png)
+![alt text](images/GET1.png)
+![alt text](images/GET2.png)
+![alt text](images/POST1.png)
+![alt text](images/GET3Test.png)
